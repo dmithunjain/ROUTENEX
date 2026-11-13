@@ -30,3 +30,30 @@ We have only 2 hours. Inspect the existing code and implement all sections witho
 Prioritize functional workflows over decorative UI. Test all modules together, fix errors, and prepare the application for demonstration and deployment.
 
 **Start implementing immediately. Do not stop at planning or explanations.**   , https://github.com/public-apis/public-apis Use this repo API . 
+
+
+P-3
+
+Generate complete site using above information complete and verify the process use this api repo https://github.com/public-apis/public-apis (need to be quick ) and landing page should have the info starting with authentication then ROUTENEX – Landing Page Instructions (5 Points)
+1. Navigation & Hero: Add logo, Home, About, Features, Contact, Login/Register and a hero section with the tagline: Every Student. Every Route. Every Destination.
+
+2. Problem & Solution: Briefly explain rural transportation challenges and how ROUTENEX solves them.
+
+3. Five Key Features: Display Student Dashboard, Smart Journey Planner, Student Pooling, Community EV Network and Admin & Transport Management using attractive cards and icons.
+
+4. How It Works & Map: Explain the booking process and show a map preview with villages, colleges, bus routes, stops and EV providers.
+
+5. Portal Access & Footer: Add separate Student, Provider and Admin access sections, contact information, Privacy Policy and Terms. (Remove the project aerophilia 2026 and module explore see the build staus . We have to develop complete end product no other project details should be mentioned in the site only the site should have clean real working way an real product )
+
+
+P-4
+Generate complete site using above information complete and verify the process use this api repo https://github.com/public-apis/public-apis (need to be quick ) and landing page should have the info starting with authentication then ROUTENEX – Landing Page Instructions (5 Points)
+1. Navigation & Hero: Add logo, Home, About, Features, Contact, Login/Register and a hero section with the tagline: Every Student. Every Route. Every Destination.
+
+2. Problem & Solution: Briefly explain rural transportation challenges and how ROUTENEX solves them.
+
+3. Five Key Features: Display Student Dashboard, Smart Journey Planner, Student Pooling, Community EV Network and Admin & Transport Management using attractive cards and icons.
+
+4. How It Works & Map: Explain the booking process and show a map preview with villages, colleges, bus routes, stops and EV providers.
+
+5. Portal Access & Footer: Add separate Student, Provider and Admin access sections, contact information, Privacy Policy and Terms. (Remove the project aerophilia 2026 and module explore see the build staus . We have to develop complete end product no other project details should be mentioned in the site only the site should have clean real working way an real product )
